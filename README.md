@@ -32,17 +32,4 @@
     └─ ...                  # other files
     ```
 
-    ## Screenshots
-    _Add screenshots or GIFs here (e.g., `docs/` folder)._
-
-    ## Roadmap
-    - [ ] Polish README with real screenshots and exact commands from the repo
-    - [ ] Add tests and CI workflow
-    - [ ] Add Dockerfile (optional)
-    - [ ] Write CONTRIBUTING and CODE_OF_CONDUCT (optional)
-
-    ## License
-    MIT (or your preferred license)
-
-    ## Notes
-    If your repo root has nested `Real-Estate-main/`, consider flattening the structure.
+   
